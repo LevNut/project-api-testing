@@ -1,6 +1,6 @@
 # project-api-testing
 
-#### Test case for Project API testing from World Class Government (WCG)
+### Test case for Project API testing from World Class Government (WCG)
 
 * WCG HerokuApp: https://wcg-apis.herokuapp.com/
 
