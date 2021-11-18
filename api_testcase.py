@@ -3,6 +3,8 @@
 import unittest
 import requests
 
+from decouple import config
+
 url = "https://wcg-apis.herokuapp.com"
 
 
