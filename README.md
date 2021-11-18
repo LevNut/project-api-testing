@@ -1,4 +1,4 @@
-# project-api-testing
+# vaccine-api-testing
 
 ### Test case for Project API testing from World Class Government (WCG)
 
